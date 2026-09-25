@@ -1,0 +1,11 @@
+*.fastq
+*.fastq.gz
+*.bam
+*.bam.bai
+*.sam
+*.sra
+*.bcf
+*.fna.gz
+*.fasta
+*.fasta.*
+sratoolkit*/
